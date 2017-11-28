@@ -1,6 +1,7 @@
 # ngx-translate & ng-packagr example
 
 lib-playground = library module 
+
 new-playground = client module
 
 `cd lib-playground`
