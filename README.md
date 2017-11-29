@@ -6,6 +6,8 @@ new-playground = client module
 
 `cd lib-playground`
 
+`npm install`
+
 `npm run build`
 
 `cd dist`
@@ -13,6 +15,8 @@ new-playground = client module
 `npm pack`
 
 `cd ../new-playground`
+
+`npm install`
 
 `npm i ../lib-playground/dist/lib-playground-0.0.0.tgz`
 
